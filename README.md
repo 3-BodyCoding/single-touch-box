@@ -27,3 +27,4 @@ Ideal for interactive UIs across Android, desktop, and other supported platforms
 ```kotlin
 implementation("io.github.3-bodycoding:singletouchbox:1.0.0")
 ```
+https://github.com/user-attachments/assets/4c9b3b86-7a87-4a7b-9c99-430fd7a10494
